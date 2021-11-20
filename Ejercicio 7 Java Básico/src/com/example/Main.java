@@ -6,6 +6,8 @@ import java.util.LinkedList;
 import java.util.Scanner;
 import java.util.Vector;
 
+//Contiene los ejercicios de las sesiones 7, 8, y 9 (excepto el último)
+
 public class Main {
     public static void main(String[] args) {
 
